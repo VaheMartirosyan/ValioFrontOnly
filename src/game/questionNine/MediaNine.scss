@@ -1,0 +1,103 @@
+@media only screen and (max-width: 1880px){
+  .checkmark {
+    height: 52px;
+    width: 52px;
+  }
+  .radiocont{
+    padding:10px;
+  }
+}
+@media only screen and (max-width: 1800px){
+  .checkmark {
+    height: 50px;
+    width: 50px;
+  }
+  .radiocont{
+    padding:9px;
+  }
+}
+@media only screen and (max-width: 1700px){
+  .checkmark {
+    height: 48px;
+    width: 48px;
+  }
+  .radiocont{
+    padding:8px;
+  }
+}
+@media only screen and (max-width: 1600px){
+  .checkmark {
+    height: 46px;
+    width: 46px;
+  }
+  .radiocont{
+    padding:7px;
+  }
+}
+@media only screen and (max-width: 1500px){
+  .checkmark {
+    height: 44px;
+    width: 44px;
+  }
+  .radiocont{
+    padding:6px;
+  }
+}
+@media only screen and (max-width: 1400px){
+  .checkmark {
+    height: 42px;
+    width: 42px;
+  }
+  .radiocont{
+    padding:5px;
+  }
+}
+@media only screen and (max-width: 1300px){
+  .checkmark {
+    height: 40px;
+    width: 40px;
+  }
+  .radiocont{
+    padding:4px;
+  }
+}
+@media only screen and (max-width: 1200px){
+  .checkmark {
+    height: 38px;
+    width: 38px;
+  }
+  .radiocont{
+    padding:3.5px;
+  }
+}
+@media only screen and (max-width: 1100px){
+  .checkmark {
+    height: 36px;
+    width: 36px;
+  }
+  .radiocont{
+    padding:3px;
+  }
+}
+@media only screen and (max-width: 1000px){
+  .checkmark {
+    height: 34px;
+    width: 34px;
+  }
+  .radiocont{
+    padding:2.8px;
+  }
+}
+@media only screen and (max-width: 400px){
+  .background{
+    width:100%;
+    height: 100vh;
+    background-size: 240% 100%;
+    .startGame,.rules{
+      width: 240px;
+      height: 46px;
+      font-size: 26px;
+
+    }
+  }
+}
